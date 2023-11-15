@@ -21,7 +21,7 @@ header{
 }
 nav{
     background-color: rgba(36, 33, 33, 0.322);
-text-align: center;
+text-align: center;width: 10px;
 }
 
 main{
@@ -32,7 +32,7 @@ main{
     padding-left: 60px;
 }
 footer{background-color: rgba(0, 0, 0, 0.459);
-height: 40px
+height: 30px
 
 
 }
